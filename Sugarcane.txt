@@ -1,0 +1,10 @@
+﻿Crop:Sugarcane
+Required Temperature:18-42C
+Rainfall requirement: 100-150 cm 
+Soil requirement: Sugarcane can be grown in all types of soils ranging from sandy loam to clay loam soil.  It however thrives best on well-drained soils
+Soil pH level: 3.5-4.5
+Yeild: 60-70 tonnes per hectare
+Fertilizers required (per hectare): Manure (Framyard): 10-15 cartloads
+                                    Nitrogen:30-50 kg
+Growth period: 90-180 days
+Sowing time: Mid October (Annual crop)

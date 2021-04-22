@@ -1,0 +1,10 @@
+﻿Crop:Groundnut
+Required Temperature:26-34C
+Rainfall requirement: 50-125 cm
+Soil requirement: Peanuts prefer a well-drained soil with a sandy or sandy-clay subsoil. Crumbly soil is the key to a successful peanut crop
+Soil pH level: 6.0-7.5
+Yeild: 4.0-4.5 tonnes per hectare
+Fertilizers required (per hectare): Manure (Framyard): 10 cartloads
+                                    Calcium (CaO): 20 kg
+Growth period: 120-150 days
+Sowing time: 1st week of June

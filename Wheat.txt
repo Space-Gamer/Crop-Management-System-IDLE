@@ -1,0 +1,11 @@
+﻿Crop: Wheat
+Required Temperature:14-25C (High temperatures could harm the crop)
+Rainfall requirement: 30-100 cm
+Soil requirement: Soils with loamy texture or clay loam and moderate water holding capacity are best for wheat cultivation.
+Soil pH level: 5.0-6.0
+Yeild: 2.5 tonnes per hectare
+Fertilizers required (per hectare): Manure (Framyard): 100-125 kg
+                                    Urea: 35-40 kg
+                                    Nitrogen:50 kg
+Growth period: 50 days
+Sowing time: October-November
