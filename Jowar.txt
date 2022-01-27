@@ -1,0 +1,15 @@
+﻿Crop:Jowar
+Required Temperature:25-32C (Tropical crop)
+Rainfall requirement: 40 cm (Drought tolerent)
+Soil requirement: Jowar crop adapts toa wide range of soils but grows well in sandy loam soils having good drainage
+Soil pH level: 6-7.5
+Yeild: 2 tonne per hectare (For standing water)
+Fertilizers required (per hectare): Manure (Framyard): 10-15 cartloads
+                                    Nitrogen: 35 kg
+                                    Phosphorous(P4O10): 40 kg
+                                    Potash (K2O): 40 kg 
+                                    Sulphur: 45-60 kg
+Growth period: 75 days
+Sowing time: Commonly, the seeds are sown in summer, winter or monsoon. 
+             In case of monsoon, you must sow the seeds accordingly and just before the monsoon.
+             The ideal time for monsoon crop is June to July

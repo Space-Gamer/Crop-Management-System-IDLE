@@ -1,0 +1,13 @@
+﻿Crop:Mustard
+Required Temperature:10-25C
+Rainfall requirement: 65-100 cm
+Soil requirement: Light to heavy soil is good for mustard and rapeseed cultivation. Can be grown in all type of soil whereas loam to heavy soils are suitable.
+Soil pH level: 6.0-7.5
+Yeild: 1 tonne per hectare 
+Fertilizers required (per hectare): Manure (Framyard): 7-12 tonnes
+                                    Nitrogen:20 to 35 kg
+                                    Phosphorous(P4O10): 30 to 35 kg
+                                    Potash (K2O): 20-25 kg 
+
+Growth period: 110-140 days
+Sowing time: September-October

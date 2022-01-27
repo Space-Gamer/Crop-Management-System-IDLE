@@ -1,0 +1,13 @@
+﻿Crop:Rice
+Required Temperature:20-40C
+Rainfall requirement: 100-150 cm (requires standing water)
+Soil requirement: Rice can be cultivated an a variety of soils such as silts, loams, and gravels and can tolerate acidic as well as alkaline soils. How ever deep fertile(rich in organic matter) clayey or loamy soils which can easily be puddled into the mud and develop cracks on drying conditions are considered to be ideal
+Soil pH level: 3.5-4.5
+Yeild: 2.5 tonnes per hectare (For standing water)
+Fertilizers required (per hectare): Manure (Framyard): 10-15 cartloads
+                                    Nitrogen:100 to 150 kg
+                                    Phosphorous(P4O10): 50 to 60 kg
+                                    Potash (KO): 40-50 kg 
+                                    Zinc Sulphate: 25 Kg
+Growth period: 90-180 days
+Sowing time: May-June
