@@ -1,5 +1,5 @@
 # Crop-Management-System-IDLE
-This is a python project developed by Pradeep (myself) and Arpan. It has its extended version with complete GUI, which I developed using mostly tkinter modules. 
+This is a python project developed by myself and Arpan. It has its extended version with complete GUI, which I developed using mostly tkinter modules. 
 
 
 Crop Management System is a computer program, developed using python and MySQL. 
@@ -7,7 +7,7 @@ It mainly aims to help the farmers with the adequate information for growing cro
 Here, the data regarding the login credentials will be stored in MySQL which is used as a back phase. The rainfall data and the temperature data are stored in CSV files. The ordered seeds data will be stored in a binary file.
 
 
-General instructions and info:
+# General instructions and info:
 
 -Admin account created by default
  -F_ID of ADMIN: 1
