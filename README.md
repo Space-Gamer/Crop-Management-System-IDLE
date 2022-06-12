@@ -7,7 +7,7 @@ It mainly aims to help the farmers with the adequate information for growing cro
 Here, the data regarding the login credentials will be stored in MySQL which is used as a back phase. The rainfall data and the temperature data are stored in CSV files. The ordered seeds data will be stored in a binary file.
 
 
-# General instructions and info:
+# General instructions and info
 
 -Admin account created by default
  -F_ID of ADMIN: 1
